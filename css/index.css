@@ -14,3 +14,18 @@
     font-size: 3rem;
     font-weight: 700;
 }
+#detail
+{
+    margin:auto;
+    color: blanchedalmond;
+    letter-spacing: 2px;
+}
+.my-col
+{
+    margin-top: 10px;
+}
+.list:hover {
+    background-color: rgb(230, 220, 220);
+    opacity: 1;
+    }
+
