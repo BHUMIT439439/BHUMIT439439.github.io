@@ -1,0 +1,16 @@
+.container
+{
+    margin-top: 5rem;
+    border: 3px solid black;
+    height: 700px;
+    background-color: rgb(70, 65, 65);
+}
+#my-header
+{
+    background: rgb(170, 158, 158);
+    
+    height: 50px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+}
