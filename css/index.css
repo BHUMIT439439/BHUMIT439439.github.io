@@ -1,24 +1,28 @@
-.container
+
+.container-fluid
 {
-    margin-top: 5rem;
     border: 3px solid black;
-    height: 700px;
-    background-color: rgb(70, 65, 65);
+    background-color: rgb(4, 10, 36);
+    height:750px;
+}
+
+.list
+{
+    font-size: 20px;
 }
 #my-header
-{
-    background: rgb(170, 158, 158);
-    
-    height: 50px;
+{   height: 50px;
     text-align: center;
     font-size: 3rem;
     font-weight: 700;
+    color: rgb(253, 253, 253);
 }
 #detail
 {
     margin:auto;
     color: blanchedalmond;
     letter-spacing: 2px;
+    font-size:  large;
 }
 .my-col
 {
@@ -28,4 +32,12 @@
     background-color: rgb(230, 220, 220);
     opacity: 1;
     }
+.button-group
+{
+    margin-top: 45px;
+}
+.btn-lg
+{
+    size: 15px;
+}
 
