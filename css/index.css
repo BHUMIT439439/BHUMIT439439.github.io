@@ -3,7 +3,6 @@
 {
     border: 3px solid black;
     background-color: rgb(4, 10, 36);
-    height:750px;
 }
 
 .list
@@ -36,8 +35,5 @@
 {
     margin-top: 45px;
 }
-.btn-lg
-{
-    size: 15px;
-}
+
 
