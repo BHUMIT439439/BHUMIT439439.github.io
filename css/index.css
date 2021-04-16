@@ -18,3 +18,7 @@ h4
     margin-top: -15px;
     color: rgb(253, 253, 253);
 }
+.img-fluid
+{
+    height: 500px;
+}
